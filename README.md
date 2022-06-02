@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://react-http-a3e26.web.app).
+This project was React(https://react-http-a3e26.web.app).
 
 ## Available Scripts
 
